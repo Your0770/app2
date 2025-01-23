@@ -11,7 +11,7 @@ public class App2Application {
 
 	@GetMapping("/")
 	public String main() {
-		return "docker app 2";
+		return "docker app 2 >>>>>>>>>> updated";
 	}
 	
 	public static void main(String[] args) {
